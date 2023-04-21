@@ -1,0 +1,9 @@
+.env
+node_modules
+deployments
+coverage
+artifacts
+cache
+ipfs.*
+raffle-1*
+*.txt
